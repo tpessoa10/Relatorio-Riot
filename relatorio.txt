@@ -1,0 +1,32 @@
+Breakpoints
+
+Maior ou igual a 960px Desktops
+De 550px até 960px Tablets
+550px ou menor Celulares
+
+Grandes Seccções 
+
+Header
+Novidades
+Nossos Jogos
+Esports
+Entretenimento
+Riot Forge
+Footer
+
+Novidades para ter duas divs, que estão alinhadas horizontalmente, a segundad div possui mais quatro divs 
+internas que estão alinhadas verticalmente, em telas de 1279px ou menores, as duas divs ficam alinhadas 
+verticalmente, enquanto as divs internas se alinham tanto horizontalmente quanto verticalmente, e em telas
+de 959px ou menores todas as divs são alinhadas verticalmente
+
+Nossos Jogos são 4 divs alinhas tanto horizontalmente quanto verticalmente e uma div alinhada verticalmente,
+em telas menores que 960px, todas as divs passam a ser alinhadas verticalmente
+
+Nas Seccções de Esports, Entretenimento e Riot Forge, o comportamento é o mesmo, duas divs alinhadas
+horizontalmente, em telas menores de 960px, passam a serem alinhadas verticalmente.
+
+Riot Forge apresenta uma especie da Carousel que possui três imagens por vez, em telas menores que 960px
+apresenta somente uma imagem por vez
+
+Footer os elementos estão sendo alinhados horizontalmente, e tem telas menores que 1360px começa a acontecer
+quebra de linha, e em telas menores que 550px os itens passam a serem alinhados verticalmente
